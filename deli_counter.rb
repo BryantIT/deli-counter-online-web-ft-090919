@@ -21,7 +21,7 @@ def line(array)
     if line.empty?
       puts "There is nobody waiting to be served!"
     else
-      puts "Currently serving #{line[1]}."
+      puts "Currently serving #{line[0]}."
       line.shift
     end
   end
