@@ -11,3 +11,8 @@ def line(array)
     puts "The line is currently: #{place_array.join(" ")}"
    end
   end
+  
+  def take_a_number(katz_deli, string)
+    count = 1
+    
+  end
