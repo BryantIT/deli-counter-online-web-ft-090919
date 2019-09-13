@@ -12,7 +12,7 @@ def line(array)
    end
   end
   
-  def take_a_number(katz_deli, string)
+  def take_a_number(katz_deli, name)
     count = 1
     
   end
