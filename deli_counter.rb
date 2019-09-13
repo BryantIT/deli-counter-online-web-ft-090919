@@ -5,5 +5,5 @@ def line(array)
   if array == 0
     puts "The line is currently empty"
   else
-    array.each_with_index
+    array.each.with_index(1) do 
 end
