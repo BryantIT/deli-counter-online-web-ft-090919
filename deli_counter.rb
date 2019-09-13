@@ -9,4 +9,5 @@ def line(array)
       place_array << ("#{index}. #{name}")
     end
     puts "The line is currently #{place_array.join(" ")}"
+  end
 end
